@@ -5,7 +5,6 @@
 </p>
 
 <h1 align="center"> 👨🏻‍💻 Sobre o Projeto - Em Andamento / YouTube-Download</h1>
-<br>
 <h4 align="center">Um abaixador de videos utilizando python para baixar videos do YouTube</h4>
 
 <br>
