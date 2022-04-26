@@ -1,10 +1,12 @@
+# Precisa ter a biblioteca Pytube instalada no computador para funcionar.
+
 from pytube import YouTube
 link = input("Enter URL of Video")
 video = YouTube(link)
 stream = video.streams.get_highest_resolution()
 stream.download()
 
-ou
+#-----------------ou---------------
 
 from pytube import YouTube, streams
 
