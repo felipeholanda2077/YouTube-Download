@@ -4,15 +4,17 @@
    </a>
 </p>
 
-<h1 align="center"> 👨🏻‍💻 Sobre o Projeto - Em Andamento / YouTube-Download</h1>
-<h4 align="center">Um abaixador de videos utilizando python para baixar videos do YouTube</h4>
-
-<br>
 
 <p align="center">ÍNDICE<br>
 <a href="#sobre">Sobre</a> •
 <a href="#Tecnologias-">Tecnologias</a> •
 <a href="#Ferramentas">Ferramentas</a></p>
+
+<br>
+
+<h1 align="center"> 👨🏻‍💻 Sobre o Projeto - Em Andamento / YouTube-Download</h1>
+<h4 align="center">Um abaixador de videos utilizando python para baixar videos do YouTube</h4>
+
 
 <br>
 
