@@ -4,6 +4,10 @@
    </a>
 </p>
 
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge"/>
+</p>
+
 
 <p align="center">ÍNDICE<br>
 <a href="#sobre">Sobre</a> •
