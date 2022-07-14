@@ -4,10 +4,6 @@
    </a>
 </p>
 
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge"/>
-</p>
-
 
 <p align="center">ÍNDICE<br>
 <a href="#sobre">Sobre</a> •
@@ -15,6 +11,10 @@
 <a href="#Ferramentas">Ferramentas</a></p>
 
 <br>
+
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge"/>
+</p>
 
 <h1 align="center"> 👨🏻‍💻 Sobre o Projeto - Em Andamento / YouTube-Download</h1>
 <h4 align="center">Um abaixador de videos utilizando python para baixar videos do YouTube</h4>
